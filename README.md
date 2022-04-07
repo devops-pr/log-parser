@@ -2,11 +2,9 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![Python](https://img.shields.io/badge/python-v3.6-blue.svg)
 ![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-brightgreen.svg)
-<br><br>
-
-<p align="center"><img src="https://raw.githubusercontent.com/devops-pr/walmart_hackathon/develop/media/walmart-screenshot.png" width="100%"><p>
 
 # LOG PARSER
+
 ## Features
 - Parse a log file and generate detailed report as below:
 
